@@ -2,7 +2,7 @@
 title: Making a Great Demonstration
 date: 2022/3/30
 description: Breaking down the fundamentals in making a great demonstration.
-tag: web development
+tag: sales solutions engineering
 author: You
 ---
 
