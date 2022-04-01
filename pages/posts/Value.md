@@ -21,9 +21,9 @@ Demos should be quick and engaging.  A short and informative demo that addresses
 ### 3. Discovery, Discovery, Discovery!
 Demos should only be performated after a discovery call where the customer's Critical Business Issues are uncovered and show focus completely on how your software can alleviate those CBIs.
 ### 4. Focus specifically on customer needs
-Your software probably has so many bells and whistles that you as the SE want to show off because they are so cool and useful, BUT it is extremely important to focus your demos on WHAT THEY NEED and not what you think is cool!\
+Your software probably has so many bells and whistles that you as the SE want to show off because they are so cool and useful, BUT it is extremely important to focus your demos on WHAT THEY NEED and not what you think is cool!
 
-Having a ton of features can be pretty awesome, but remember that a prospect is coming to you because they need to address certain concerns with their business and presenting features that don't directly tie to their Critical Business Issues lengthens the overall demo time as well as increasing the perceived complexity of the software.\
+Having a ton of features can be pretty awesome, but remember that a prospect is coming to you because they need to address certain concerns with their business and presenting features that don't directly tie to their Critical Business Issues lengthens the overall demo time as well as increasing the perceived complexity of the software.
 
 Overloading your prospects with irrelevant features can easily lead to you upselling your customer out of the deal completely!
 
