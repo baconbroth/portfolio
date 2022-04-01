@@ -2,7 +2,7 @@
 title: Making a Great Demonstration
 date: 2022/3/30
 description: Breaking down the fundamentals in making a great demonstration.
-tag: sales solutions engineering
+tag: sales engineering
 author: You
 ---
 
@@ -18,11 +18,16 @@ One of the key focus areas here is that customers have short attention spans (th
 When beginning a demonstration you want to instantly show the propsect the end value they will get from your software, so that the rest of the demo the prospect is left wondering and trying to figure out how your software can get them to that end goal!
 ### 2. Walk through how you get to the compelling screens in a quick and concise manner
 Demos should be quick and engaging.  A short and informative demo that addresses key areas of value for the customer is going to resonate a lot better than a detailed walkthrough of all the features/functionality.
-### 3. Discovery, Discovery, Discovery
+### 3. Discovery, Discovery, Discovery!
 Demos should only be performated after a discovery call where the customer's Critical Business Issues are uncovered and show focus completely on how your software can alleviate those CBIs.
 ### 4. Focus specifically on customer needs
 Your software probably has so many bells and whistles that you as the SE want to show off because they are so cool and useful, BUT it is extremely important to focus your demos on WHAT THEY NEED and not what you think is cool!\
+
 Having a ton of features can be pretty awesome, but remember that a prospect is coming to you because they need to address certain concerns with their business and presenting features that don't directly tie to their Critical Business Issues lengthens the overall demo time as well as increasing the perceived complexity of the software.\
+
 Overloading your prospects with irrelevant features can easily lead to you upselling your customer out of the deal completely!
 
+## High Level Summary:
+The goal of a software demo is NOT to show off all the cool features within the product, but to rather hone in on SPECIFIC customer pain points and highlighting how your software can assuage those pain points, which will lead to gains in their critical key performance indicators (sometimes you'll need to point out what these gains will look like).
 
+If you are able to keep your demos focused strongly on your customers critical business issues then you will be able to win deals more consistently and and easily!
