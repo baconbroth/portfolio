@@ -49,6 +49,8 @@ The file-system based routing also makes it extremely easy for me to build out i
 
 You can see in this image that I could simple structure the page layout of my website by creating .mdx files within the /pages/ folder and similarly I could make separate Posts within the Posts page by adding different .mdx files as well.  This is very intuitive and easy to pick up and makes building and scaling on the website much simpler.
 
+I was even able to set a custom domain in Vercel to deploy my application too in just a few clicks with no extra charge!
+
 ## How does developing and deploying projects on Vercel differ from your experience, or research, on other platforms?
 
 The biggest differentiator that I believe Vercel has is just overall developer experience.  Vercel is focused on making it as easy and efficient as possible to build and deploy applications and wants developers to be able to focus exclusively on coding as opposed to busywork like maintain scaling, performance, status, infrastructure, and etc.  Vercel also works with all the most popular frameworks and libraries like React, Next, Gatsby, Vue, Angular, etc.
