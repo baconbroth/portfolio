@@ -7,6 +7,8 @@ author: You
 ---
 import Image from 'next/image'
 
+## BIG TEST 1234
+
 Building a website nowadays can really be as hard or as easy as you want it.  There are plenty of free websites that you can utilize with visual editors that can empower any non-developer to build their own website and make it look pretty good too!
 
 Even though there are a lot of easy ways for people without development backgrounds to build websites it can be a great exercise in trying to build one yourself by coding it out! Transparently, I am not a developer and have never built a web application before, but I did have a lot of fun building this website (even though it's not the fanciest or most feature-intensive website).  In this article I will try to outline some of my thought processes on how I built the website and why I choose the framework and approach that I did!
