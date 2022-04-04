@@ -59,7 +59,11 @@ As an example if you wanted to deploy a Next.Js app with Amazon Web Services you
 
 To be completely honest, the developer experience of deploying and building through Vercel is second to none.  We've discussed this a bit throughout the article, but really all you have to do with Vercel is create an account, build your application, commit to GitHub, manage & merge pull requests in GitHub, look at previews in Vercel (through the GitHub UI), and when any commits/merges are published to main branch they will be AUTOMATICALLY built and deployed to Vercel.  Pages can be cached on Vercel's edge network for maximum performance for any of your site visitors across the world and if you are seeing increased traffic then Vercel will autoscale your application to ensure uptime and peak performance!
 
-In summary, the goal of Vercel is to keep your developers doing with they do best, CODING, and leaving all the annoying infrastructure, scaling, and status related issues to Vercel to handle automatically.
+![AWS_Services](/images/aws_services.png)
+
+You can see the screenshot of my AWS Management Console above with all the different services that AWS offers.  In certain situations it can be nice to utilize all the different services that AWS offers, but it is also a huge time sink and lift on the developer's end to manage all the different services and troubleshoot across them. Vercel handles a lot of these key services automatically in the backend, so your developers can take a hands-off approach on managing services.  When you compare the easy build and deployment process that we've walked through in Vercel with all these services in AWS, it's easy to see how a development team can save a ton of time using Vercel!
+
+The goal of Vercel is to keep your developers doing with they do best, CODING, and leaving all the annoying infrastructure, scaling, and status related issues to Vercel to handle automatically!
 
 ## Vercel features & integrations
 
